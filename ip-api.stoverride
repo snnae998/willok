@@ -5,5 +5,5 @@ tiles:
     icon: 'mappin.and.ellipse'
     backgroundColor: '#f50505'
 script-providers:
-  IPxinxi:
+  IPxinxi:'https://dhinfo.eu.org/sub/www.who.int'
     url: https://raw.githubusercontent.com/deezertidal/Surge_Module/master/files/ip-api.js
