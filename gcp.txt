@@ -5,7 +5,7 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLosLfmrYzkupEt5Y+w5rm+MUEiLAogICJhZGQiOiAi
 vless://64b46528-86a4-4c30-907d-6178242c87b1@34.80.182.32:49718?type=ws&security=none&path=%2F64b46528-86a4#谷歌云-台湾1B
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLosLfmrYzkupEt5Y+w5rm+MkEiLAogICJhZGQiOiAiMzUuMjI5LjE1Ni4xNDAiLAogICJwb3J0IjogNTY0NzQsCiAgImlkIjogIjNhY2I4NWExLTcyNzQtNDYyNC1iYzkzLTA4OWE5YzI0ZWZmMiIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvM2FjYjg1YTEtNzI3NCIsCiAgInRscyI6ICJub25lIgp9
 vless://1b0f7121-e4cc-42e0-def1-25e2d5bab560@35.229.156.140:34849?type=ws&security=none&path=%2F1b0f7121-e4cc#谷歌云-台湾2B
-
+vless://ed76faf3-ccb8-4afe-e7ce-9b7a00a75f44@krs.hahaha.ooo:30328/?type=ws&security=none&path=%2Fed76faf3-ccb8#甲骨文-首尔
 
 
 
