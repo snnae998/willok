@@ -9,5 +9,5 @@ vless://73413b9b-fd45-48d8-ef03-71f4bfde68d9@66.42.69.202:48334?type=ws&security
 vless://47fd48f6-20dc-4ed3-9128-d861ae002fe8@34.84.165.251:10529?type=ws&security=none&path=%2F47fd48f6-20dc-4ed3-9128-d861ae002fe8#谷歌-日本
 vless://6eb442dd-4b59-45ed-cdac-fc0ae0a50f5a@34.92.246.234:42271?type=ws&security=none&path=%2F6eb442dd-4b59-45ed-cdac-fc0ae0a50f5a#谷歌-香港
 vless://480dbbd0-117c-446c-f127-21356f65258e@34.143.170.21:48094?type=ws&security=none&path=%2F480dbbd0-117c-446c-f127-21356f65258e#谷歌-新加坡
-vless://4d90e325-bdf8-4d9a-ed63-69956537057b@34.151.86.134:48056?type=ws&security=none&path=%2F4d90e325-bdf8-4d9a-ed63-69956537057b#谷歌-悉尼
+vless://fe262660-5034-4a89-df32-410ce4712bf8@35.244.97.179:16539?type=ws&security=none&path=%2Ffe262660#谷歌-悉尼
 vless://20b97305-8937-4370-f9e0-cb5b40ddd545@35.204.238.123:13635?type=ws&security=none&path=%2F20b97305-8937-4370-f9e0-cb5b40ddd545#谷歌-荷兰
